@@ -7,3 +7,6 @@ def countdown(seconds)
 end
 "Happy New Year!!"
 end 
+
+def countdown_to_midnight
+end
