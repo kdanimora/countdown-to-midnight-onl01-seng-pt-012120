@@ -9,7 +9,8 @@ end
 end 
 
 def countdown_with_sleep(seconds_to_midnight)
-    while 
+    while seconds_to_midnight < 0 
+    puts 
 
 end
 
